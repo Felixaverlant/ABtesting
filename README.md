@@ -30,6 +30,6 @@ You have 2 functions :
 | conversions A       | Total number of conversions of version A         | Num | Yes        |
 | conversions B       | Total number of conversions of version B         | Num | Yes        |
 
-# Examples
-conv_interval(args)$low
-conv_interval(args)$high
+### conv_interval results selection
+- conv_interval(args*)$low
+- conv_interval(args*)$high
