@@ -1,5 +1,2 @@
 .Rapp.history
-data.csv
-data2.csv
-test.r
-.gitignore
+tests/
