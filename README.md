@@ -7,7 +7,6 @@ It use the N - 1 two-proportion test algorithm.
 
 Check http://www.measuringusability.com/ab-calc.php for a quick test.
 
-
 # Functions
 You have 2 functions :
 - same_conv : Probability that the two versions have the same conversion rate as (in %),
@@ -31,3 +30,6 @@ You have 2 functions :
 | conversions A       | Total number of conversions of version A         | Num | Yes        |
 | conversions B       | Total number of conversions of version B         | Num | Yes        |
 
+# Examples
+conv_interval(args)$low
+conv_interval(args)$high
